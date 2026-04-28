@@ -4,16 +4,16 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge)](LICENSE)
 [![Updated 2026](https://img.shields.io/badge/Mise%20%C3%A0%20jour-Avril%202026-success?style=for-the-badge)](README.md)
-[![Independent Project](https://img.shields.io/badge/Independent-Not%20affiliated%20with%20Microsoft-orange?style=for-the-badge)](#-disclaimer)
+[![Personal Project](https://img.shields.io/badge/Personal%20Project-Not%20affiliated%20with%20Microsoft-orange?style=for-the-badge)](#-disclaimer)
 
 ---
 
 ## 👨‍🏫 Maintenu par
 
-**Frederic Leroy**
-Formateur independant specialise Azure Architecture + Cybersecurite + Identity
+**Frederic Leroy** — **Microsoft Certified Trainer (MCT)**
+Specialise Azure Architecture + Cybersecurite + Identity
 
-> Mes credentials officiels (badges Microsoft Certifications) sont disponibles publiquement sur **[Credly](https://www.credly.com/)** et **[Microsoft Learn Profile](https://learn.microsoft.com/users/)**.
+> Mes credentials officiels (badges Microsoft Certifications + MCT) sont disponibles publiquement sur **[Credly](https://www.credly.com/)** et **[Microsoft Learn Profile](https://learn.microsoft.com/users/)**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/) | 📧 [Contact](mailto:fr3dlry@gmail.com) | 🎓 [Mes formations](#-formation-complete)
 
@@ -189,7 +189,7 @@ Pour usage commercial (re-vente formation), [contactez-moi](mailto:fr3dlry@gmail
 
 ## ⚠️ Disclaimer
 
-**Ce projet est INDEPENDANT** et n'est **PAS affilie**, sponsorise, endosse, ou approuve par Microsoft Corporation.
+**Ce projet est une initiative PERSONNELLE** et n'est **PAS affilie**, sponsorise, endosse, ou approuve par Microsoft Corporation.
 
 - "Microsoft", "Azure", "AZ-305", "Microsoft Entra ID", "Microsoft Cloud Adoption Framework", "Well-Architected Framework", et autres noms cites sont des **marques deposees ou enregistrees** de Microsoft Corporation et sont utilises ici a des fins **descriptives uniquement** (fair use).
 - Tout le contenu de ce repo est une **synthese personnelle** de **documentation publique** Microsoft Learn. Aucun extrait du **Microsoft Official Curriculum (MOC)**, du **Trainer Kit**, ou de tout autre materiel proprietaire Microsoft n'est inclus.

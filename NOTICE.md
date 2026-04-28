@@ -6,14 +6,14 @@
 
 ## 🛡️ Affiliation
 
-**Ce projet est INDEPENDANT** et :
+**Ce projet est une initiative PERSONNELLE** et :
 
 - ❌ N'est **PAS affilie** a Microsoft Corporation
 - ❌ N'est **PAS sponsorise** par Microsoft
 - ❌ N'est **PAS endorsed** par Microsoft Corporation
 - ❌ Ne represente **PAS** la position officielle de Microsoft
 
-Le projet est une **initiative personnelle** d'un formateur francais pour partager des **ressources gratuites** avec la communaute francophone.
+Le projet est une **initiative personnelle** d'un formateur Microsoft Certified Trainer (MCT) francais, pour partager des **ressources gratuites** avec la communaute francophone.
 
 ---
 
@@ -100,7 +100,7 @@ Le maintenance du repo declare avoir le statut **MCT** au moment de la publicati
 ```
 
 Le statut MCT n'implique **pas** :
-- ❌ Une affiliation Microsoft directe (les MCT sont des partenaires independants)
+- ❌ Une affiliation directe avec Microsoft (les MCT sont des credentialed individuals)
 - ❌ Une representation officielle de Microsoft
 - ❌ Un endossement Microsoft de ce projet
 
