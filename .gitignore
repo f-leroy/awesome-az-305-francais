@@ -1,0 +1,37 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Personal notes (jamais public)
+*-personal*
+private/
+draft/
+notes-perso/
+
+# Sensitive
+.env
+.credentials
+secrets.*
+*.key
+*.pem
+
+# Build artifacts
+out/
+dist/
+node_modules/
