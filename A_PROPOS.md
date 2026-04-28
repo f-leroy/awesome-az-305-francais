@@ -142,3 +142,18 @@ Vous voulez :
 ---
 
 [⬅️ Retour README](README.md)
+
+---
+
+## ⚠️ Disclaimer
+
+Ce profil personnel reflete des **certifications obtenues** aupres de Microsoft. Le statut "Microsoft Certified Trainer (MCT)" et la certification "Azure Solutions Architect Expert (AZ-305)" sont des **credentials officiels** verifiables sur :
+
+- [Microsoft Learn Profile](https://learn.microsoft.com/users/)
+- [Credly](https://www.credly.com/) (badges officiels)
+
+Les certifications MCT et AZ-305 sont des **credentials individuels** obtenus aupres de Microsoft Corporation. Ce statut **n'implique pas d'affiliation directe**, de **representation**, ou d'**endossement** par Microsoft Corporation.
+
+Les services de formation et consulting proposes ici sont **offerts en tant que prestataire independant**, pas au nom de Microsoft Corporation.
+
+"Microsoft", "Azure", "Microsoft Certified Trainer (MCT)", "AZ-305" et autres noms cites sont des marques deposees ou enregistrees de **Microsoft Corporation**.

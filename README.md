@@ -2,17 +2,18 @@
 
 > **La ressource francaise de reference** pour preparer la certification Microsoft **Azure Solutions Architect Expert (AZ-305)**.
 
-[![Microsoft Certified Trainer](https://img.shields.io/badge/Microsoft-Certified%20Trainer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/mct-certification)
-[![AZ-305 Expert](https://img.shields.io/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge)](LICENSE)
 [![Updated 2026](https://img.shields.io/badge/Mise%20%C3%A0%20jour-Avril%202026-success?style=for-the-badge)](README.md)
+[![Independent Project](https://img.shields.io/badge/Independent-Not%20affiliated%20with%20Microsoft-orange?style=for-the-badge)](#-disclaimer)
 
 ---
 
 ## 👨‍🏫 Maintenu par
 
-**Frederic Leroy** — **Microsoft Certified Trainer (MCT)**
-Specialise Azure Architecture + Cybersecurite + Identity
+**Frederic Leroy**
+Formateur independant specialise Azure Architecture + Cybersecurite + Identity
+
+> Mes credentials officiels (badges Microsoft Certifications) sont disponibles publiquement sur **[Credly](https://www.credly.com/)** et **[Microsoft Learn Profile](https://learn.microsoft.com/users/)**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/) | 📧 [Contact](mailto:fr3dlry@gmail.com) | 🎓 [Mes formations](#-formation-complete)
 
@@ -183,6 +184,21 @@ Si ce repo vous aide :
 [CC BY-NC-SA 4.0](LICENSE) — Usage libre **non-commercial** avec mention de l'auteur.
 
 Pour usage commercial (re-vente formation), [contactez-moi](mailto:fr3dlry@gmail.com).
+
+---
+
+## ⚠️ Disclaimer
+
+**Ce projet est INDEPENDANT** et n'est **PAS affilie**, sponsorise, endosse, ou approuve par Microsoft Corporation.
+
+- "Microsoft", "Azure", "AZ-305", "Microsoft Entra ID", "Microsoft Cloud Adoption Framework", "Well-Architected Framework", et autres noms cites sont des **marques deposees ou enregistrees** de Microsoft Corporation et sont utilises ici a des fins **descriptives uniquement** (fair use).
+- Tout le contenu de ce repo est une **synthese personnelle** de **documentation publique** Microsoft Learn. Aucun extrait du **Microsoft Official Curriculum (MOC)**, du **Trainer Kit**, ou de tout autre materiel proprietaire Microsoft n'est inclus.
+- Les **questions exam** presentees sont **originales** et inspirees du **study guide public** disponible sur [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/), pas de practice assessments ou MOC.
+- Pour les **materiels officiels** Microsoft (cours, labs, practice assessments), referez-vous a [Microsoft Learn](https://learn.microsoft.com/) ou a un Microsoft Learning Partner.
+
+Pour des questions sur les marques Microsoft : [Microsoft Trademark Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks).
+
+Voir [NOTICE.md](NOTICE.md) pour les details complets de conformite.
 
 ---
 
